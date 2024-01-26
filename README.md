@@ -5,7 +5,7 @@ Minecraft-Mod-Explorer is a PowerShell tool (`search_mods.ps1`) designed to enha
 
 ## Requirements
 - PowerShell 5.0 or higher.
-- [ATLauncher]([https://github.com/lllyasviel/Fooocus](https://atlauncher.com/downloads))
+- [ATLauncher]([https://github.com/lllyasviel/Fooocus](https://atlauncher.com/downloads)
 - Access to mod files and `instance.json` in your Minecraft instance directory.
 
 ## Setup Instructions
