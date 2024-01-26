@@ -1,4 +1,5 @@
 # Minecraft-Mod-Explorer
+<img width="960" alt="chrome_ywKn82cBEZ" src="https://github.com/MindOfMatter/Minecraft-Mod-Explorer/assets/35126123/3715fe32-bd71-41cf-86ce-b5260667136e">
 
 ## Description
 Minecraft-Mod-Explorer is a PowerShell tool (`search_mods.ps1`) designed to enhance the Minecraft gaming experience. It assists players in efficiently locating and organizing information about their installed Minecraft mods. The script generates an interactive HTML table, detailing each mod's name, description, categories, file size, and providing direct links to CurseForge or Modrinth pages.
@@ -34,9 +35,6 @@ Minecraft-Mod-Explorer is a PowerShell tool (`search_mods.ps1`) designed to enha
 - **Direct External Links**: Quick access to CurseForge or Modrinth mod pages.
 - **Advanced Sorting**: Sort mods by various attributes for easier navigation.
 - **Visual Appeal**: Integrates mod images for enhanced browsing.
-
-## Example
-<img width="960" alt="chrome_ywKn82cBEZ" src="https://github.com/MindOfMatter/Minecraft-Mod-Explorer/assets/35126123/3715fe32-bd71-41cf-86ce-b5260667136e">
 
 ## Notes
 - The script is non-intrusive and only reads Minecraft mod files.
